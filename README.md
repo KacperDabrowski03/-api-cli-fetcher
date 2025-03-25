@@ -8,3 +8,6 @@ Opis zadanie 2
 
 Aby rozpocząć, klonuj repozytorium na swoje urządzenie lokalne:
 bash
+https://github.com/KacperDabrowski03/-api-cli-fetcher.git
+cd api-cli-fetcher
+
